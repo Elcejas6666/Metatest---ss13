@@ -1,0 +1,9 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<h1>Welcome to Metatest!</h1>
+
+<i>This server runs the Voidcrew code, which is an extinct code from the current Shiptest, but this not mean that its mechanics are worse, this is simply a space to enjoy and roleplay, we are a small community of people who miss the old code and its functions .</i>
+
+<h1>Have fun!</h1>
+
+<h1>https://discord.gg/Djf6yPVZ</h1>
